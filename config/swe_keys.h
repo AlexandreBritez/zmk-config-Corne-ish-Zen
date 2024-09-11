@@ -61,6 +61,7 @@
 #define SE_PRCNT LS(N5)      // %
 #define SE_AMPS  LS(N6)      // &
 #define SE_FSLH  LS(N7)      // /
+#define SE_COLON LS(DOT)     // :
 #define SE_STAR  LS(BSLH)    // *
 #define SE_CARET RBRC        // ^
 #define SE_LPAR  LS(N8)      // (
